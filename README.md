@@ -1,0 +1,1 @@
+# cloudcasa-charmed-operator
